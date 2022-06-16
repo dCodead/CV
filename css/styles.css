@@ -18,7 +18,13 @@ a{
     color: #252A34;
 }*/
 h3{
-    color: #EAEADA;
+    color: #EAEAE0;
+}
+input{
+    background-color: #EAEAEA;
+}
+textarea{
+    background-color: #EAEAEA;
 }
 /* p{
     color: #252A34;
