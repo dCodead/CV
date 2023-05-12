@@ -87,18 +87,20 @@ a{
 a:hover{
     color: #09F9D6;
 }
-/* .row{
-    display:table;
-    content:"";
-    clear:both;
+li{
+    list-style-type: square;
 }
-.column{
-    width: 50%;
-    float:left;
-} */
-/* h1{
-    color: #252A34;
-}*/
+.horizontal-list{
+    overflow: hidden;
+    display: flex;
+}
+.horizontal-list li{
+    /* display: inline; */
+    float: left;
+    display: block;
+    list-style-type:square;    
+}
+
 input{
     background-color: #EAEAEA;
 }
