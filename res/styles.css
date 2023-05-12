@@ -20,22 +20,22 @@ div{
     margin-right: 0.2rem;
 }
 #email{
-    background-image: url("./email-icon.jpg");
+    background-image: url("./icons/email-icon.jpg");
     background-size: 1rem;
     background-repeat: no-repeat;
 }
 #phone{
-    background-image: url("./phone-icon.png");
+    background-image: url("./icons/phone-icon.png");
     background-size: 0.75rem;
     background-repeat: no-repeat;
 }
 #linkedin{
-    background-image: url("./linkedin-icon.png");
+    background-image: url("./icons/linkedin-icon.png");
     background-size: 1.13rem;
     background-repeat: no-repeat;
 }
 #github{
-    background-image: url("./github-icon.png");
+    background-image: url("./icons/github-icon.png");
     background-size: 1rem;
     background-repeat: no-repeat;
 }
