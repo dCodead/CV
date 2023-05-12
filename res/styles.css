@@ -4,7 +4,7 @@ body{
     
 }
 div{
-    margin: 5% 10%;
+    margin: 3% 10% 3% 10%;
 }
 .icon{
 
@@ -110,10 +110,7 @@ textarea{
     width:100%;
     height:3px;
 }
-#lastHr{
-    width:100%;
-    height:3px;
-}
+
 #personalPic{
     border-radius:180px;
 }
