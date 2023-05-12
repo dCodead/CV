@@ -1,0 +1,30 @@
+Serat's Personal Site
+
+
+Serat Almoqbel
+Computer Scientist
+ A Computer Science student who strives for knowledge
+                             and holds a forever learning value. I aim to use my 
+                             knowledge to create technology, then use it to help 
+                             people, and to enhance their life experience.
+
+Contact me
+
+maybe make it expand to send email or something
+
+Education
+
+Computer Science Bachelor of Science degree at <a href="http://www.kfupm.edu.sa/Default.aspx">
+            King Fahd University of
+                 Petroleum and Minerals
+
+
+Experience
+Dates
+Work
+2021
+Evolving Music Player app in android java
+2022
+Calculator and Unit Converter app in flutter
+
+Skills

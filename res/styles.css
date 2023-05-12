@@ -1,0 +1,124 @@
+body{
+    background-color:#ffff;
+    color: #000f;
+    
+}
+div{
+    margin: 5% 10%;
+}
+.icon{
+
+    list-style-type: None;
+    margin-left: 0.4rem;
+}
+.icon::before{   
+    content:"";
+    display: inline-block;
+   
+    height: 1rem;
+    width: 1rem;
+    margin-right: 0.2rem;
+}
+#email{
+    background-image: url("./email-icon.jpg");
+    background-size: 1rem;
+    background-repeat: no-repeat;
+}
+#phone{
+    background-image: url("./phone-icon.png");
+    background-size: 0.75rem;
+    background-repeat: no-repeat;
+}
+#linkedin{
+    background-image: url("./linkedin-icon.png");
+    background-size: 1.13rem;
+    background-repeat: no-repeat;
+}
+#github{
+    background-image: url("./github-icon.png");
+    background-size: 1rem;
+    background-repeat: no-repeat;
+}
+.row {
+    display: flex;
+    margin-bottom: 2%;
+  }
+  
+.column {
+    flex: 100%;
+    width: 100%;
+    margin: 0 0 0 0;
+
+}
+.column-left{
+    flex: 100%;
+    /* margin-right: 2%; */
+}
+.column-right{
+    flex: 60%;
+    float: right;
+    width: 1%;
+    margin: 2% 0 0 0;
+    /* margin-left: 2%;s */
+
+}
+#personal-photo{
+    width: 10rem;
+    float: left;
+    margin-right: 3%;
+    border-color: chocolate;
+
+}
+#contact-me{
+
+}
+hr{
+    border-style: none none none none;
+    /* border-width:5px; */
+    /* border-color: #FF2E63; */
+    height: 2px;
+    width: 90%;
+    background-color: #252A34;
+}
+
+a{
+    color: #08D9D6;
+} 
+a:hover{
+    color: #09F9D6;
+}
+/* .row{
+    display:table;
+    content:"";
+    clear:both;
+}
+.column{
+    width: 50%;
+    float:left;
+} */
+/* h1{
+    color: #252A34;
+}*/
+input{
+    background-color: #EAEAEA;
+}
+textarea{
+    background-color: #EAEAEA;
+}
+
+/*class specific selectors*/
+/*Note: class names containing spaces does not work*/
+/*can be used on many elements*/
+/*element can have multi classes but single id*/
+/* .lastHr{
+    width:100%;
+    height:3px;
+} */
+/*id can only be used on 1 element each page*/
+#lastHr{
+    width:100%;
+    height:3px;
+}
+#personalPic{
+    border-radius:180px;
+}
