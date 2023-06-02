@@ -48,10 +48,11 @@ div{
     flex: 100%;
     width: 100%;
     margin: 0 0 0 0;
-
 }
 .column-left{
     flex: 100%;
+    float: left;
+
     /* margin-right: 2%; */
 }
 .column-right{
@@ -62,7 +63,18 @@ div{
     /* margin-left: 2%;s */
 
 }
-
+.right{
+    /* float: right; */
+    float: right
+}
+.right-col{
+    float: right;
+    /* margin-bottom: 2%;   */
+    /* initial-letter-align: right  ; */
+}
+.left-col{
+    float:left;
+}
 #personal-photo{
     width: 10rem;
     float: left;
